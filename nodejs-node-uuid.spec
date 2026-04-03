@@ -2,7 +2,7 @@
 Summary:	RFC4122v4 UUID generator for Node.js
 Name:		nodejs-%{pkg}
 Version:	1.4.1
-Release:	1
+Release:	2
 License:	MIT or GPL+
 Group:		Development/Libraries
 URL:		https://github.com/broofa/node-uuid
